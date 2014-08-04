@@ -1,7 +1,7 @@
 package main
 
 import (
-	"GoWiki/store"
+	"GoWikiServer/store"
 	"flag"
 	"html/template"
 	"io/ioutil"
